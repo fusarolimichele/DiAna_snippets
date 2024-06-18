@@ -4,4 +4,4 @@ Can be downloaded using:
 
 library(snippr)
 
-snippets_install_github("fusarolimichele/snippets")
+snippets_install_github("fusarolimichele/DiAna_snippets")
