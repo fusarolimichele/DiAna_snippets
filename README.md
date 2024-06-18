@@ -3,4 +3,5 @@ Repository to store the R snippets for improving sharing and replicability of FA
 Can be downloaded using:
 
 library(snippr)
+
 snippets_install_github("fusarolimichele/snippets")
